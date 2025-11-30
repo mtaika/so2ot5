@@ -1,1 +1,1 @@
-XAMKin opintojaksolla Sovellusohjelmointi 2 tehty oppimistehtävä
+Koulutehtävä, syksy 2024
