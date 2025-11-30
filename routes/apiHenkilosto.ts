@@ -22,6 +22,6 @@ apiHenkilostoRouter.get("/", async (req : express.Request, res : express.Respons
     } catch (e : any) {
         next(new Virhe());
     }
-});
+}); 
 
 export default apiHenkilostoRouter;
